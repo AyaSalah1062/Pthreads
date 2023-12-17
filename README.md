@@ -1,8 +1,10 @@
 It is required to implement two popular algorithms as multi-threaded ones. They are as follows:
+
 FIRST:Matrix Multiplication:
 It is required to implement two variations of this algorithm:
 1. The computation of each element of the output matrix happens in a thread.
 2. The computation of each row of the output matrix happens in a thread.
+
 SECOND:Merge Sort:
 Merge sort is an O (n log n) comparison-based sorting algorithm. It is a divide-and-conquer algorithm. Conceptually, a merge sort
 works as follows:
